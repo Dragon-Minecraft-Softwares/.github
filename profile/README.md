@@ -1,12 +1,9 @@
 <div id="header" align="center" style="background-color:rgba(255, 238, 0, 0.03);">
-    <p style="color: transparent">占位</p>
-    <img src="https://github.com/user-attachments/assets/d21e73a0-dc8f-4b93-a664-3c2c34ebfb06" style="width:20%;" align="center">
-    <h1 style="font-size:220%;background: -webkit-linear-gradient(135deg,rgba(0,255,34,0.50),rgba(0,89,255,0.50) 20%,rgba(0,253,255,0.50) 60%,rgba(200, 255, 0, 0.5) 75%,rgba(255, 234, 0, 0.5) 82.5%,rgba(255, 174, 0, 0.5) 90%);-webkit-text-fill-color: transparent;-webkit-background-clip: text;-webkit-background-size: 200% 100%;"> Dragon Minecraft Softwares </h1>
-    <p style="color: rgba(255, 234, 0, 0.67)"> - 我们用热爱构建我们的的Minecraft - <p>
-    <p style="color: rgba(0,0,0,0)">占位</p>
+    <img src="https://github.com/user-attachments/assets/887ba37b-d10b-42ec-a5b3-f2c0b3f14555">
 </div>
 <div id="badges" align="center">
-    <img src="https://img.shields.io/badge/HelloWorldCoder-red?logo=dungeonsanddragons&logoColor=rgb(255%2C%20234%2C%200)&logoSize=auto&label=Lead&labelColor=rgba(179%2C%20255%2C%200%2C%200.4)&color=rgba(255%2C%20234%2C%200%2C%200.25)&link=https%3A%2F%2Fgithub.com%2FHelloWorldCoder-China
+    <img src="https://img.shields.io/badge/HelloWorldCoder-red?logo=dungeonsanddragons&logoColor=rgb(255%2C%20234%2C%200)&logoSize=auto&label=Lead&labelColor=rgba(179
+%2C%20255%2C%200%2C%200.4)&color=rgba(255%2C%20234%2C%200%2C%200.25)&link=https%3A%2F%2Fgithub.com%2FHelloWorldCoder-China
     ">
     <img src="https://img.shields.io/badge/Java-red?logo=javascript&logoColor=%23F7DF1E&logoSize=auto&label=Using Main&labelColor=rgba(255%2C%20183%2C%200%2C%200.4)&color=rgba(255%2C%20128%2C%200%2C%200.25)&link=https%3A%2F%2Fwww.oracle.com%2Fcn%2Fjava%2Ftechnologies%2Fdownloads%2F
     ">

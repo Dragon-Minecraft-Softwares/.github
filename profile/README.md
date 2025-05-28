@@ -1,6 +1,7 @@
 <div id="header" align="center" style="background-color:rgba(255, 238, 0, 0.03);">
     <img src="https://github.com/user-attachments/assets/aa66188e-8107-4ca8-99e6-6551d7cce583" style="width: 100%">
 </div>
+<p>؜</p>
 <div id="badges" align="center">
     <img src="https://img.shields.io/badge/HelloWorldCoder-red?logo=dungeonsanddragons&logoColor=rgb(255%2C%20234%2C%200)&logoSize=auto&label=Lead&labelColor=rgba(179
 %2C%20255%2C%200%2C%200.4)&color=rgba(255%2C%20234%2C%200%2C%200.25)&link=https%3A%2F%2Fgithub.com%2FHelloWorldCoder-China

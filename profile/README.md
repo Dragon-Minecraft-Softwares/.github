@@ -1,5 +1,5 @@
 <div id="header" align="center" style="background-color:rgba(255, 238, 0, 0.03);">
-    <p style="color: rgba(0,0,0,0)">占位</p>
+    <p style="color: transparent">占位</p>
     <img src="https://github.com/user-attachments/assets/d21e73a0-dc8f-4b93-a664-3c2c34ebfb06" style="width:20%;" align="center">
     <h1 style="font-size:220%;background: -webkit-linear-gradient(135deg,rgba(0,255,34,0.50),rgba(0,89,255,0.50) 20%,rgba(0,253,255,0.50) 60%,rgba(200, 255, 0, 0.5) 75%,rgba(255, 234, 0, 0.5) 82.5%,rgba(255, 174, 0, 0.5) 90%);-webkit-text-fill-color: transparent;-webkit-background-clip: text;-webkit-background-size: 200% 100%;"> Dragon Minecraft Softwares </h1>
     <p style="color: rgba(255, 234, 0, 0.67)"> - 我们用热爱构建我们的的Minecraft - <p>

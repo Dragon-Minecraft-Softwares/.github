@@ -7,5 +7,14 @@
         "author": "Dragon Minecraft Softwares",
         "website": "https://github.com/Dragon-Minecraft-Softwares/GodKillerACMinecraft",
         "projectstatue":"UnderDevelopment"
+    },
+    "VersionSeaNEL":
+    {
+        "name": "版本海脱盒系统",
+        "description": ".",
+        "version": "0.1-PreAlpha",
+        "author": "Dragon Minecraft Softwares",
+        "website": "https://github.com/Dragon-Minecraft-Softwares/VersionSeaNEL",
+        "projectstatue":"UnderDevelopment"
     }
 }
